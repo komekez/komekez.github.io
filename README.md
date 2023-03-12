@@ -1,12 +1,17 @@
-# <a href="https://people.umass.edu/avsingh" target="_blank">My Alternate Portfolio Website</a>
+# Academic template
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://people.umass.edu/avsingh)
-[![Author](https://img.shields.io/badge/Author-Aditya%20Vikram%20Singh-blue.svg)](https://www.linkedin.com/in/AVS1508/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-13%20June%202021-yellow.svg)](https://github.com/AVS1508/My-Alternate-Portfolio-Website/commit/master)
+Simple academic template that is easy to deploy on Github page, and relatively
+easy to customise furthermore using css. Here is the [live](https://simongravelle.github.io/) version.
 
- <p align="justify">This website serves as an online portfolio to showcase my web presence, résumé, story, & featured projects with a Particle.js aligned theme. It was generated using using Jekyll, Sass, and Gulp.js.</p>
+[![image](https://user-images.githubusercontent.com/43388542/216845033-cc7b0a28-60ff-4e86-a5ce-2c93930e08e2.png)](https://simongravelle.github.io/)
 
-![My Alternate Portfolio Website](https://raw.githubusercontent.com/AVS1508/My-Alternate-Portfolio-Website/master/My-Alternate-Portfolio-Website.jpg)
+[![image](https://user-images.githubusercontent.com/43388542/216845176-a6effb49-db58-42b2-8b36-f65d5b959e39.png)](https://simongravelle.github.io/)
 
-Please hit me up at avsingh@umass.edu if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+It comes with a good looking dark mode:
+
+[![image](https://user-images.githubusercontent.com/43388542/216845058-77fe9c11-5086-494f-b83d-83d26c252a5b.png)](https://simongravelle.github.io/)
+
+Feel free to use the template, it is originaly
+from [wowchemy](https://wowchemy.com/), with some custom css
+adapted from [nickballousite](https://github.com/nballou) webpage.
+
